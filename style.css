@@ -1,0 +1,54 @@
+		body{
+			margin: 0px;
+			font-family: arial;
+		}
+		.container{
+			margin: auto;
+			max-width: 900px;
+		}
+
+		header{
+			background-color: #000;
+			background-image: url(img/fundo.jpg);
+			color: #fff;
+			padding-top: 20px;
+			padding-bottom: 20px;
+			height: 200px;
+			text-align: center;
+			line-height: 180px;
+		}
+		.menu-principal ul{
+			margin: 0px;
+			padding: 0px;
+			list-style: none;
+		}
+		.menu-principal ul li{
+			display: inline-block;
+			padding: 20px;
+		}
+		.menu-principal ul li:hover{
+			background-color: #bbb;
+		}
+		.menu-principal ul li a{
+			text-decoration: none;
+			color: #000;
+		}
+		.menu-principal{
+			border-bottom: : 1px solid #999
+				;
+		}
+		.menu{
+			border-bottom: 1px solid #999;
+		}
+		.sidebar{
+			display: inline-block;
+			border: 1px solid #000;
+			width: 200px;
+			sidebar: ;
+
+		}
+		.content{
+			display: inline-block;
+			border: 1px solid #000;
+			width: 200px;
+		}
