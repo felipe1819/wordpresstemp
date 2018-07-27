@@ -1,1 +1,1 @@
-# wordpresstemp
+# wordpresstemplate
